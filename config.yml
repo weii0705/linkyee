@@ -25,17 +25,17 @@ plugins:
 google_analytics_id:
 
 # HTML Title
-title: "ZhgChgLi's Links"
+title: "TsaiWei's Links"
 
 # Avatar image path
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "@zhgchgli"
+name: "@tsaiwei"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    喜歡旅遊的台灣女孩
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
